@@ -1,0 +1,17 @@
+{
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        "typescript",
+        "typescriptreact",
+        "json",
+        "jsonc",
+        "css"
+    ],
+    "eslint.debug": false,
+    "eslint.enable": true,
+    "eslint.execArgv": null,
+    "eslint.lintTask.command": "eslint",
+    "eslint.lintTask.options": ". --ext ts,tsx --report-unused-disable-directives",
+    "eslint.nodePath": "${userHome}/.nvm/versions/node/v24.11.1/bin/node",
+}
