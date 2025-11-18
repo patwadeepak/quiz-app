@@ -30,6 +30,7 @@ export default defineConfig([
     },
     rules: {
       semi: "error",
+      "@typescript-eslint/no-confusing-void-expression": "off",
     },
   },
 ]);
